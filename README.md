@@ -1,1 +1,1 @@
-# git_tutorial_01
+# git_tutorial_01 설명추가
